@@ -1,0 +1,33 @@
+{
+  "id": "2144ab1c-3939-408d-aa9c-d4e93e23051e",
+  "name": "BAT Phase 2 SIT Reports",
+  "publisher": "Intwo",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [
+    {
+      "id": "71526075-ff0a-4af6-b5c5-60eb6f8c1418",
+      "name": "RJEDevelopments",
+      "publisher": "Levtech",
+      "version": "1.0.0.0"
+    }
+  ],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "18.0.0.0",
+  "idRanges": [
+    {
+      "from": 50150,
+      "to": 50180
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://SITAllocation.com/help/",
+  "showMyCode": false,
+  "runtime": "7.0"
+}
